@@ -12,14 +12,24 @@ von Denis Jashari
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektorientierter Programmierung entwickelt.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1  |   Muss              | Funktional     |  Als User möchte ich die Wahl erhalten, das Spiel im Menu zu starten oder beenden zu können.  |
+| 2    |    Muss             | Funktional     | Als User möchte ich eine zufällig generierte Geheimzahl zwischen 1 bis 100 erraten.  |
+| 3    |  Muss            |   Funktional   |  Als User möchte ich Anweisungen erhalten, ob die eingegebene Zahl zu klein oder zu gross ist.  |
+| 4    |  Muss            |   Funktional   |  Als User möchte ich sicherstellen, dass das Spiel bei Fehleingaben nicht abstürzt.    |
+| 5    |  Muss            |  Funktional   |  Als User möchte ich eine Siegesmitteilung erhalten, wenn ich die geheime Zahl erraten habe. |
+| 6    |     Muss         | Funktional     |  Als User möchte ich die Anzahl Versuche ausgegeben haben, wenn ich die Geheimzahl errate.   |
+| 7    |     Kann         | Qualität     |  Als User möchte ich, dass gewisse ausgegebene Zeilen mit Farben dargestellt werden (Bsp. die Siegesmitteilung sollte grün sein).   |
+| 7    |     Muss         | Funktional     |  Als User möchte ich die Möglichkeit erhalten eine weitere Runde zu spielen oder ins Spielmenü zurückzukehren.    |
+| 7    |     Kann         | Qualität     |     |
+| 7    |     Kann         | Qualität     |     |
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
