@@ -49,14 +49,28 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://github.com/denisjashari54/Ranber-Game/assets/107101355/13573150-5e9f-4232-a4bd-3afba24cdc78)
+
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  18.08.2023     | Denis Jashari          |  Informieren            |  90min             |
+| 2.A  | 18.08.2023      |  Denis Jashari          | Planen             |  90min             |
+| 3.A  | 25.08.2023      |  Denis Jashari          |  Spielmenu erstellen            |  40min  |
+| 3.B  | 25.08.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden             |  90min             |
+| 3.C  | 01.09.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden Fehlerbehandlung (User gibt statt 1 oder 2 andere Zeichen ein)              |  90min             |
+| 4.A  | 25.08.2023      |  Denis Jashari          | Zufallsgenerator erstellen              |  40min             |
+| 5.A  | 25.08.2023      |  Denis Jashari          |  Zahlen erraten einbauen            |  90min             |
+| 5.B  | 25.08.2023      |  Denis Jashari          | Zahlen erraten Fehlerbehandlung (User gibt statt Zahl andere Zeichen ein)            |  40min             |
+| 6.A  | 25.08.2023      |  Denis Jashari          | Geheimzahl wurde erraten + Siegesmitteilung            |  60min             |
+| 7.A  | 01.09.2023      |  Denis Jashari          |  Anzahl benötigter Versuche einbauen            |  30min             |
+| 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  40min             |
+| 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  90min             |
+| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoratiuon (Farbe einbauen, Titel verschöner, usw.)             |  20min             |
+| 2.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  20min             |
+
 
 Total: 
 
