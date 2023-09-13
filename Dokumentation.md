@@ -29,10 +29,6 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 9    |     Muss         | Funktional     |  Als User möchte ich die Möglichkeit erhalten weitere Runden zu spielen oder ins Spielmenü zurückzukehren.  |
 | 10    |     Kann         | Qualität     |  Als User möchte ich, dass das Spielmenü ansprechend und schön gestaltet ist.    |
 
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
