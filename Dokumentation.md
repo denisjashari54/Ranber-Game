@@ -78,7 +78,7 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | 1.A  | 18.08.2023      | Denis Jashari          |     90min          |       90min            |
 | 2.A  | 18.08.2023      | Denis Jashari           |  90min             |     120min              |
 | 3.A  | 25.08.2023      |  Denis Jashari         |        45min        |        45min           |
