@@ -25,9 +25,9 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 5    |  Muss            |  Funktional   |  Als User möchte ich eine Siegesmitteilung erhalten, wenn ich die geheime Zahl erraten habe. |
 | 6    |     Muss         | Funktional     |  Als User möchte ich die Anzahl Versuche ausgegeben haben, wenn ich die Geheimzahl errate.   |
 | 7    |     Kann         | Qualität     |  Als User möchte ich, dass gewisse ausgegebene Zeilen mit Farben dargestellt werden (Bsp. die Siegesmitteilung sollte grün sein).   |
-| 7    |     Muss         | Funktional     |  Als User möchte ich die Möglichkeit erhalten eine weitere Runde zu spielen oder ins Spielmenü zurückzukehren.    |
-| 7    |     Kann         | Qualität     |     |
-| 7    |     Kann         | Qualität     |     |
+| 8    |     Muss         | Funktional     |  Als User möchte ich, dass bei einer neuen Runde eine neue geheime Zahl generiert wird.   |
+| 9    |     Muss         | Funktional     |  Als User möchte ich die Möglichkeit erhalten weitere Runden zu spielen oder ins Spielmenü zurückzukehren.  |
+| 10    |     Kann         | Qualität     |  Als User möchte ich, dass das Spielmenü ansprechend und schön gestaltet ist.    |
 
 
 
