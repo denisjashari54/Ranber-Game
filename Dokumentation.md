@@ -74,7 +74,7 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielmenü und eine andere, die die Spiellogik enthält. Ausserdem habe ich mir vorgenommen möglichst viel Code in verschiedene Methoden zu verschachteln, um den Programmfluss besser zu strukturieren. 
 
 ## 4 Realisieren
 
