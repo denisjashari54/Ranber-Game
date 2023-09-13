@@ -118,7 +118,7 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 | 9.1  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 10.1  | 08.09.2023      |  OK        | Denis Jashari        |
 
-Alles verlief ohne Probleme. Einige Punkte haben zu einem Brainstorming geführt, aber ich konnte sie alle erfolgreich bewältigen.
+Alles verlief reibungslos. Einige Herausforderungen erforderten zusätzlichen Einsatz, jedoch konnte ich sie alle erfolgreich bewältigen.
 
 ## 6 Auswerten
 
