@@ -4,8 +4,8 @@ von Denis Jashari
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    18.08.23   | 0.0.1   | Ich habe mich erneut in C# eingearbeitet und konnte eine klare Idee von meinem Projekt entwickeln. Dadurch war es mir möglich, mein Projekt sorgfältig zu planen. |
-|  25.08.2023     | ...     |                                                              |
-|   01.09.2023    | 1.0.0   |                                                              |
+|  25.08.2023     | 0.0.2     |  Nachdem ich mich informiert habe, begann ich zu programmieren.                                                         |
+|   01.09.2023    | 0.0.3   |                                                              |
 |   08.09.2023    | 1.0.0   |                                                              |
 
 ## 1 Informieren
