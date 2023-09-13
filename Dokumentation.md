@@ -60,7 +60,7 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 2.A  | 18.08.2023      |  Denis Jashari          | Planen             |  90min             |
 | 3.A  | 25.08.2023      |  Denis Jashari          |  Spielmenu erstellen            |  45min  |
 | 3.B  | 25.08.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden             |  45min             |
-| 3.C  | 01.09.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden Fehlerbehandlung (User gibt statt 1 oder 2 andere Zeichen ein)              |  90min             |
+| 3.C  | 01.09.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden Fehlerbehandlung (User gibt statt 1 oder 2 andere Zeichen ein)              |  45min             |
 | 4.A  | 25.08.2023      |  Denis Jashari          | Zufallsgenerator erstellen              |  45min             |
 | 5.A  | 25.08.2023      |  Denis Jashari          |  Zahlen erraten einbauen            |  90min             |
 | 5.B  | 25.08.2023      |  Denis Jashari          | Zahlen erraten Fehlerbehandlung (User gibt statt Zahl andere Zeichen ein)            |  45min             |
@@ -69,7 +69,7 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  45min             |
 | 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  45min             |
 | 9.A  | 08.09.2023      |  Denis Jashari          | Dekoratiuon (Farbe einbauen, Titel verschöner, usw.)             |  45min             |
-| 2.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  45min             |
+| 10.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  45min             |
 
 
 ## 3 Entscheiden
@@ -79,11 +79,23 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 18.08.2023      | Denis Jashari          |     90min          |       90min            |
+| 2.A  | 18.08.2023      | Denis Jashari           |  90min             |     120min              |
+| 3.A  | 25.08.2023      |  Denis Jashari         |        45min        |        45min           |
+| 3.B  | 25.08.2023      |  Denis Jashari         |   45min              |      45min             |
+| 3.C  | 25.08.2023      | Denis Jashari          |   45min              |     30min              |
+| 4.A  |  25.08.2023     | Denis Jashari          |   45min              |     20min              |
+| 5.A  |  25.08.2023     |  Denis Jashari         |   90min              |      100min             |
+| 5.B  | 25.08.2023      | Denis Jashari          |   45min              |      35min             |
+| 6.A  | 25.08.2023      | Denis Jashari          |   45min              |      30min             |
+| 7.A  | 01.09.2023      | Denis Jashari          |  45min               |      45min             |
+| 8.A  |  01.09.2023     | Denis Jashari          |  45min               |      100min             |
+| 8.B  |  01.09.2023     |  Denis Jashari         |   45min              |       25min            |
+| 9.A  |  08.09.2023      | Denis Jashari          |  45min               |      15min             |
+| 10.A  | 08.09.2023       | Denis Jashari          |  45min               |       20min            |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+
 
 ## 5 Kontrollieren
 
