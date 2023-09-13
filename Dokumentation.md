@@ -33,10 +33,19 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |    Öffnung des Programms.          |  Start Button oder F5       |    Spielmenu               |
+| 2.1  |   Entscheidung [1] Spielen oder [2] Beenden           |   1      |     Spiel startet. Man kann geheime Zahl erraten              |
+| 2.2  |   Entscheidung [1] Spielen oder [2] Beenden           |  2       |    Spiel beendet.               |
+| 2.3  |   Entscheidung [1] Spielen oder [2] Beenden           |  Input != 1 / 2       |   Ungültige Eingabe                |
+| 3.1  |  Eingabe der Zahl.           |  enter Zahl       |    Zahl ist korrekt oder falsch               |
+| 4.1  |   Eingabe Zahl ist falsch.           |  enter Zahl       |   Zahl ist zu klein oder zu gross.                |
+| 5.1  |  Eingabe != eine Zahl            |  Enter != Zahl       |  Ungültige Eingabe                 |
+| 6.1  | Siegesmitteilung erscheint.             |  automatisch       |     Zahl wurde erraten. Hurra :)              |
+| 7.1  |  Anzahl benötigter Versuche            | automatisch        |   Anzahl Versuche werden angezeigt.                |
+| 8.1  | Erneut spielen?             |   Nein      |      Ins Spielmenu zurückgesesetzt              |
+| 8.2  | Erneut spielen?             |   Ja      |  Neue Runde wird gestartet                 |
+| 9.1  | Erneuter Durchlauf des gleichen Schemas           |  mehrere       |   Die neue Runde funktioniert, wie die vorherige.                |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
