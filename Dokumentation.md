@@ -104,8 +104,19 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 08.09.2023      |   OK       |   Denis Jashari     |
+| 2.1  | 08.09.2023      |    OK      |   Denis Jashari      |
+| 3.1  | 08.09.2023      |    OK      |  Denis Jashari       |
+| 3.2  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 3.3  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 4.1  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 5.1  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 6.1  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 7.1  | 08.09.2023      |    OK      |  Denis Jashari       |
+| 8.1  | 08.09.2023      |    OK      |  Denis Jashari       |
+| 8.2  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 9.1  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 10.1  | 08.09.2023      |  OK        | Denis Jashari        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
