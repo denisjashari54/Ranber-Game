@@ -58,25 +58,19 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  18.08.2023     | Denis Jashari          |  Informieren            |  90min             |
 | 2.A  | 18.08.2023      |  Denis Jashari          | Planen             |  90min             |
-| 3.A  | 25.08.2023      |  Denis Jashari          |  Spielmenu erstellen            |  40min  |
-| 3.B  | 25.08.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden             |  90min             |
+| 3.A  | 25.08.2023      |  Denis Jashari          |  Spielmenu erstellen            |  45min  |
+| 3.B  | 25.08.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden             |  45min             |
 | 3.C  | 01.09.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden Fehlerbehandlung (User gibt statt 1 oder 2 andere Zeichen ein)              |  90min             |
-| 4.A  | 25.08.2023      |  Denis Jashari          | Zufallsgenerator erstellen              |  40min             |
+| 4.A  | 25.08.2023      |  Denis Jashari          | Zufallsgenerator erstellen              |  45min             |
 | 5.A  | 25.08.2023      |  Denis Jashari          |  Zahlen erraten einbauen            |  90min             |
-| 5.B  | 25.08.2023      |  Denis Jashari          | Zahlen erraten Fehlerbehandlung (User gibt statt Zahl andere Zeichen ein)            |  40min             |
-| 6.A  | 25.08.2023      |  Denis Jashari          | Geheimzahl wurde erraten + Siegesmitteilung            |  60min             |
-| 7.A  | 01.09.2023      |  Denis Jashari          |  Anzahl benötigter Versuche einbauen            |  30min             |
-| 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  40min             |
-| 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  90min             |
-| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoratiuon (Farbe einbauen, Titel verschöner, usw.)             |  20min             |
-| 2.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  20min             |
+| 5.B  | 25.08.2023      |  Denis Jashari          | Zahlen erraten Fehlerbehandlung (User gibt statt Zahl andere Zeichen ein)            |  45min             |
+| 6.A  | 25.08.2023      |  Denis Jashari          | Geheimzahl wurde erraten + Siegesmitteilung            |  45min             |
+| 7.A  | 01.09.2023      |  Denis Jashari          |  Anzahl benötigter Versuche einbauen            |  45min             |
+| 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  45min             |
+| 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  45min             |
+| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoratiuon (Farbe einbauen, Titel verschöner, usw.)             |  45min             |
+| 2.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  45min             |
 
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
