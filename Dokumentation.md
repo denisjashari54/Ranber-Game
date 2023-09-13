@@ -118,16 +118,7 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 | 9.1  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 10.1  | 08.09.2023      |  OK        | Denis Jashari        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+Alles verlief ohne Probleme. Einige Punkte haben zu einem Brainstorming geführt, aber ich konnte sie alle erfolgreich bewältigen.
 
 ## 6 Auswerten
 
