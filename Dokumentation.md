@@ -50,7 +50,8 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 
 ### 1.4 Diagramme
 
-![image](https://github.com/denisjashari54/Ranber-Game/assets/107101355/e1e3f850-e01a-4af9-8b84-cac4e9a80e8f)
+![image](https://github.com/denisjashari54/Ranber-Game/assets/107101355/b4d19f31-6cea-412a-b272-6a91bb5b7d88)
+
 
 
 
