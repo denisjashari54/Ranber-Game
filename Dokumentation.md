@@ -127,6 +127,6 @@ Alles verlief reibungslos. Einige Herausforderungen erforderten zusätzlichen Ei
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
+Bitte werfen Sie einen Blick auf meinen Portfolioeintrag: https://portfolio.bbbaden.ch/view/view.php?t=5d1e0df3c1d6cf318813
 
