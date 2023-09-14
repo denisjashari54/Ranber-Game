@@ -44,7 +44,8 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 7.1  |  Anzahl benötigter Versuche            | automatisch        |   Anzahl Versuche werden angezeigt.                |
 | 8.1  | Erneut spielen?             |   Nein      |      Ins Spielmenu zurückgesesetzt              |
 | 8.2  | Erneut spielen?             |   Ja      |  Neue Runde wird gestartet                 |
-| 9.1  | Erneuter Durchlauf des gleichen Schemas           |  mehrere       |   Die neue Runde funktioniert, wie die vorherige.                |
+| 9.1  | Neue generierte Geheimzahl           |  automatisch       |   Neue Geheimzahl wurde generiert.                |
+| 10.1  | Erneuter Durchlauf des gleichen Schemas           |  mehrere       |   Die neue Runde funktioniert, wie die vorherige.                |
 
 
 ### 1.4 Diagramme
