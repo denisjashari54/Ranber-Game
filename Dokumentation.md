@@ -35,7 +35,7 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |    Öffnung des Programms.          |  Start Button oder F5       |    Spielmenu               |
 | 2.1  |   Entscheidung [1] Spielen oder [2] Beenden           |   1      |     Spiel startet. Man kann geheime Zahl erraten              |
-| 2.2  |   Entscheidung [1] Spielen oder [2] Beenden           |  2       |    Spiel beendet.               |
+| 2.2  |   Entscheidung [1] Spielen oder [2] Beenden           |  2       |    Spiel endet.               |
 | 2.3  |   Entscheidung [1] Spielen oder [2] Beenden           |  Input != 1 / 2       |   Ungültige Eingabe                |
 | 3.1  |  Eingabe der Zahl.           |  enter Zahl       |    Zahl ist korrekt oder falsch               |
 | 4.1  |   Eingabe Zahl ist falsch.           |  enter Zahl       |   Zahl ist zu klein oder zu gross.                |
