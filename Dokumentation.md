@@ -73,7 +73,7 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | 7.A  | 01.09.2023      |  Denis Jashari          |  Anzahl benötigter Versuche einbauen            |  45min             |
 | 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  45min             |
 | 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  45min             |
-| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoratiuon (Farbe einbauen, Titel verschöner, usw.)             |  45min             |
+| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoration (Farbe einbauen, Titel verschöner, usw.)             |  45min             |
 | 10.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  45min             |
 
 
