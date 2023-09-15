@@ -34,29 +34,27 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |    Öffnung des Programms.          |  Start Button oder F5       |    Spielmenu               |
-| 2.1  |   Entscheidung [1] Spielen oder [2] Beenden           |   1      |     Spiel startet. Man kann geheime Zahl erraten              |
-| 2.2  |   Entscheidung [1] Spielen oder [2] Beenden           |  2       |    Spiel endet.               |
-| 2.3  |   Entscheidung [1] Spielen oder [2] Beenden           |  Input != 1 / 2       |   Ungültige Eingabe                |
-| 3.1  |  Eingabe der Zahl.           |  enter Zahl       |    Zahl ist korrekt oder falsch               |
-| 4.1  |   Eingabe Zahl ist falsch.           |  enter Zahl       |   Zahl ist zu klein oder zu gross.                |
-| 5.1  |  Eingabe != eine Zahl            |  Enter != Zahl       |  Ungültige Eingabe                 |
-| 6.1  | Siegesmitteilung erscheint.             |  automatisch       |     Zahl wurde erraten. Hurra :)              |
-| 7.1  |  Anzahl benötigter Versuche            | automatisch        |   Anzahl Versuche werden angezeigt.                |
-| 8.1  | Erneut spielen?             |   Nein      |      Ins Spielmenu zurückgesesetzt              |
-| 8.2  | Erneut spielen?             |   Ja      |  Neue Runde wird gestartet                 |
-| 9.1  | Neue generierte Geheimzahl           |  automatisch       |   Neue Geheimzahl wird generiert.                |
-| 10.1  | Erneuter Durchlauf des gleichen Schemas           |  mehrere       |   Die neue Runde funktioniert, wie die vorherige.                |
+| 1.2  |   Entscheidung [1] Spielen oder [2] Beenden           |  1       |    Spiel startet.               |
+| 1.3  |   Entscheidung [1] Spielen oder [2] Beenden           |  2       |    Spiel endet.               |
+| 1.4  |   Entscheidung [1] Spielen oder [2] Beenden           |  Input != 1 / 2       |   Ungültige Eingabe                |
+| 2.1  |  Geheime Zahl wird generiert.          |   automatisch      |     Man kann geheime die Zahl erraten.              |
+| 3.1  |  Eingabe Zahl ist korrekt.           |  enter Zahl       |    Geheime Zahl wurde erraten.               |
+| 3.2  |   Eingabe Zahl ist falsch.           |  enter Zahl       |   Zahl ist zu klein oder zu gross.                |
+| 4.1  |  Eingabe != eine Zahl            |  Enter != Zahl       |  Ungültige Eingabe                 |
+| 5.1  | Siegesmitteilung erscheint.             |  automatisch       |     Zahl wurde erraten. Hurra :)              |
+| 6.1  |  Anzahl benötigter Versuche            | automatisch        |   Anzahl Versuche werden angezeigt.                |
+| 7.1  | Bestimmte Zeilen sind mit Farben dargestellt (z.B. Ungültige Eingabe = Rot)            |   automatisch      |  Bestimmte Zeilen sind farblich dargestellt.             |
+| 8.1  | Neue generierte Geheimzahl           |  automatisch       |   Neue Geheimzahl wird generiert.                |
+| 9.1  | Erneut spielen?             |   Ja      |  Neue Runde wird gestartet                 |
+| 9.2  | Erneuter Durchlauf des gleichen Schemas           |  mehrere       |   Die neue Runde funktioniert, wie die vorherige.                |
+| 9.3  | Erneut spielen?             |   Nein      |  Ins Spielmenu zurückgesendet                |
+| 10.1  | Spielmenu entsprechend gestalten           |  automatisch       |   Die Gestaltung sieht angehnem aus.                |
+
 
 
 ### 1.4 Diagramme
 
 ![image](https://github.com/denisjashari54/Ranber-Game/assets/107101355/b4d19f31-6cea-412a-b272-6a91bb5b7d88)
-
-
-
-
-
-
 
 
 
@@ -96,8 +94,8 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 | 7.A  | 01.09.2023      | Denis Jashari          |  45min               |      45min             |
 | 8.A  |  01.09.2023     | Denis Jashari          |  45min               |      100min             |
 | 8.B  |  01.09.2023     |  Denis Jashari         |   45min              |       25min            |
-| 9.A  |  08.09.2023      | Denis Jashari          |  45min               |      15min             |
-| 10.A  | 08.09.2023       | Denis Jashari          |  45min               |       20min            |
+| 9.A  |  08.09.2023     | Denis Jashari          |  45min               |      15min             |
+| 10.A  | 08.09.2023     | Denis Jashari          |  45min               |       20min            |
 
 
 
@@ -109,17 +107,20 @@ Ich habe mich dazu entschlossen, zwei Klassen zu erstellen: Eine für das Spielm
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 08.09.2023      |   OK       |   Denis Jashari     |
+| 1.2  | 08.09.2023      |   OK       |   Denis Jashari     |
+| 1.3  | 08.09.2023      |   OK       |   Denis Jashari     |
+| 1.4  | 08.09.2023      |   OK       |   Denis Jashari     |
 | 2.1  | 08.09.2023      |    OK      |   Denis Jashari      |
 | 3.1  | 08.09.2023      |    OK      |  Denis Jashari       |
 | 3.2  | 08.09.2023      |   OK       |  Denis Jashari       |
-| 3.3  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 4.1  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 5.1  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 6.1  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 7.1  | 08.09.2023      |    OK      |  Denis Jashari       |
 | 8.1  | 08.09.2023      |    OK      |  Denis Jashari       |
-| 8.2  | 08.09.2023      |   OK       |  Denis Jashari       |
 | 9.1  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 9.2  | 08.09.2023      |   OK       |  Denis Jashari       |
+| 9.3  | 08.09.2023      |   OK       |   Denis Jashari     |
 | 10.1  | 08.09.2023      |  OK        | Denis Jashari        |
 
 Alles verlief reibungslos. Einige Herausforderungen erforderten zusätzlichen Einsatz, jedoch konnte ich sie alle erfolgreich bewältigen.
