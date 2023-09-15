@@ -64,20 +64,16 @@ In diesem Projekt wird ein lässiger Random Number Guesser C#-Spiel in objektori
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  18.08.2023     | Denis Jashari          |  Informieren            |  90min             |
-| 2.A  | 18.08.2023      |  Denis Jashari          | Planen             |  90min             |
-| 3.A  | 25.08.2023      |  Denis Jashari          |  Spielmenu erstellen            |  45min  |
-| 3.B  | 25.08.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden             |  45min             |
-| 3.C  | 01.09.2023      |  Denis Jashari          | Spielmenu: [1] Spielen oder [2] Spiel beenden Fehlerbehandlung (User gibt statt 1 oder 2 andere Zeichen ein)              |  45min             |
-| 4.A  | 25.08.2023      |  Denis Jashari          | Zufallsgenerator erstellen              |  45min             |
-| 5.A  | 25.08.2023      |  Denis Jashari          |  Zahlen erraten einbauen            |  90min             |
-| 5.B  | 25.08.2023      |  Denis Jashari          | Zahlen erraten Fehlerbehandlung (User gibt statt Zahl andere Zeichen ein)            |  45min             |
-| 6.A  | 25.08.2023      |  Denis Jashari          | Geheimzahl wurde erraten + Siegesmitteilung            |  45min             |
-| 7.A  | 01.09.2023      |  Denis Jashari          |  Anzahl benötigter Versuche einbauen            |  45min             |
-| 8.A  | 01.09.2023     |  Denis Jashari          | Neue Runde starten             |  45min             |
-| 8.B  | 01.09.2023     |  Denis Jashari          | Neue Runde starten Fehlerbehandlung (User gibt statt ja oder nein andere Zeichen ein)             |  45min             |
-| 9.A  | 08.09.2023      |  Denis Jashari          | Dekoration (Farbe einbauen, Titel verschöner, usw.)             |  45min             |
-| 10.A  | 08.09.2023      |  Denis Jashari          | Letzte Anpassungen             |  45min             |
+| 1.A  |  18.08.2023     | Denis Jashari          |  Spielmenu erstellen            |  45min             |
+| 2.A  | 18.08.2023      |  Denis Jashari          | Zufallszahl Generator erstellen             |  45min             |
+| 3.A  | 25.08.2023      |  Denis Jashari          |  Mitteilungen implementieren, ob geratene Zahl zu klein oder zu gross ist            |  45min  |
+| 4.A  | 25.08.2023      |  Denis Jashari          | Fehlerbehandlungen einbauen             |  45min             |
+| 5.A  | 01.09.2023      |  Denis Jashari          | Siegesmitteilung implementieren              |  45min             |
+| 6.A  | 25.08.2023      |  Denis Jashari          | Anzahl Versuche gegen Spielende einbauen              |  45min             |
+| 7.A  | 25.08.2023      |  Denis Jashari          |  Spielmitteliungen mit Farben gestalten            |  45min             |
+| 8.A  | 25.08.2023      |  Denis Jashari          | Bei Start einer neuen Runde eine neue Geheimzahl generieren          |  45min             |
+| 9.A  | 25.08.2023      |  Denis Jashari          | Möglichkeit einbauen gegen Spielende eine neue Runde starten oder zurück ins Spielmenu zu kehren.           |  45min             |
+| 10.A  | 01.09.2023      |  Denis Jashari          |  Spielmenu schön gestalten           |  45min             |
 
 
 ## 3 Entscheiden
